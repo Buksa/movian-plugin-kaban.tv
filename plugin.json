@@ -1,0 +1,15 @@
+{
+	"type": "ecmascript",
+	"apiversion": 1,
+	"id": "kaban.tv",
+	"file": "kaban.tv.js",
+	"showtimeVersion": "4.8",
+	"version": "1.5.1",
+	"author": "Buksa",
+	"title": "Kaban.tv",
+	"icon": "img/logo.png",
+	"synopsis": "Russian Tv Online ТВ Онлайн с Кабаном – твои неограниченные возможности!",
+	"description": "<p>Kaban.tv - Showtime plugin is the integration of the website <a href=\"http://kaban.tv\">Kaban.tv</a> into Showtime</p>",
+	"category": "TV",
+	"homepage": "https://github.com/buksa"
+}
